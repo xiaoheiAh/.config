@@ -1,0 +1,5 @@
+name: linkedin.com Force Forward 
+desc: 强制跳转 linkedin.com.
+ 
+rules:
+  - DOMAIN-KEYWORD,linkedin,Final
